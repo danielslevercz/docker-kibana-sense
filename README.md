@@ -1,2 +1,2 @@
 # docker-kibana-sense
-Kibana with elastic/sense pre-installed
+Kibana 4.4.0 with elastic/sense pre-installed
